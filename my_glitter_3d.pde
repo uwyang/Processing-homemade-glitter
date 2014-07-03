@@ -1,4 +1,6 @@
 //mouse click to turn on and off the twinkling effect. 
+// --- I did not use the lights, ambient lights, etc. 
+// spent some time on geometry and trig-ed them all out. 
 
 float csize = 20;
 PVector viewerPos;
